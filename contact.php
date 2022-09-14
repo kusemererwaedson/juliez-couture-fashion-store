@@ -173,9 +173,7 @@
                            <div class="col-md-6 col-sm-6">
                               <input class="contactus" id="email" placeholder="Email" type="email" name="email">                          
                            </div>
-                           <div class="col-md-6 col-sm-6">
-                              <input class="contactus" id="subject" placeholder="Address" type="text" name="subject">                          
-                           </div>
+                      
                            <div class="col-md-12">
                               <input class="contactusmess" id="message" placeholder="Message" type="text" Message="Name" name="message">
                            </div>
