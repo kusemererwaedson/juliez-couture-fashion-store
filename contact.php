@@ -8,7 +8,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>juliez-couture-fashion</title>
+      <title>romofyi</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -110,22 +110,22 @@
                            <div class="collapse navbar-collapse" id="navbarsExample04">
                               <ul class="navbar-nav mr-auto">
                                  <li class="nav-item ">
-                                    <a class="nav-link" href="index.html">Home</a>
+                                    <a class="nav-link" href="index.php">Home</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="about.html">About</a>
+                                    <a class="nav-link" href="about.php">About</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="products.html">Products</a>
+                                    <a class="nav-link" href="products.php">Products</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="fashion.html">Fashion</a>
+                                    <a class="nav-link" href="fashion.php">Fashion</a>
                                  </li>
                                  <li class="nav-item">
-                                    <a class="nav-link" href="news.html">News</a>
+                                    <a class="nav-link" href="news.php">News</a>
                                  </li>
                                  <li class="nav-item active">
-                                    <a class="nav-link" href="contact.html">Contact Us</a>
+                                    <a class="nav-link" href="contact.php">Contact Us</a>
                                  </li>
                               </ul>
                            </div>
