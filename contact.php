@@ -164,25 +164,23 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-10 offset-md-1">
-                     <form id="request" class="main_form">
+                     <form id="request" class="main_form" method="POST" action="contactVer.php">
                         <div class="row">
                            <div class="col-md-6 col-sm-6">
-                              <input class="contactus" placeholder="Name" type="type" name="Name"> 
+                              <input class="contactus" id="name" placeholder="Name" type="text" name="name"> 
+                           </div>
+                         
+                           <div class="col-md-6 col-sm-6">
+                              <input class="contactus" id="email" placeholder="Email" type="email" name="email">                          
                            </div>
                            <div class="col-md-6 col-sm-6">
-                              <input class="contactus" placeholder="Phone Number" type="type" name="Phone Number"> 
-                           </div>
-                           <div class="col-md-6 col-sm-6">
-                              <input class="contactus" placeholder="Email" type="type" name="Email">                          
-                           </div>
-                           <div class="col-md-6 col-sm-6">
-                              <input class="contactus" placeholder="Address" type="type" name="Address">                          
+                              <input class="contactus" id="subject" placeholder="Address" type="text" name="subject">                          
                            </div>
                            <div class="col-md-12">
-                              <input class="contactusmess" placeholder="Message" type="type" Message="Name">
+                              <input class="contactusmess" id="message" placeholder="Message" type="text" Message="Name" name="message">
                            </div>
                            <div class="col-md-12">
-                              <button class="send_btn">Send</button>
+                              <button  name="submit" id="submit" class="send_btn">Send</button>
                            </div>
                         </div>
                      </form>
